@@ -1,0 +1,44 @@
+name: three_amigos_flutter
+description: "A Flutter project with Firebase integration for inventory management."
+
+publish_to: 'none' # Prevents accidental publishing to pub.dev.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase dependencies
+  firebase_core: ^3.10.0
+  firebase_auth: ^5.4.0
+  cloud_firestore: ^5.6.1
+
+  # UI dependencies
+  cupertino_icons: ^1.0.8
+  provider: ^6.0.0
+  url_launcher: ^6.1.14
+  intl: ^0.20.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+    
+
+  # Linting rules for best practices
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/st_denis_logo.png
+    - assets/images/laval_logo.png
+    - assets/images/tequila_silver.png
+    - assets/images/tequila_gold.png
+    - assets/images/Tequila_1800_silver.png
+    - assets/images/Tequila_1800_reposado.png
+    - assets/images/Hornitos_reposado.png
+    - assets/data/inventory.json
