@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "454509219801",
+    "project_id": "three-amigos-inventory",
+    "storage_bucket": "three-amigos-inventory.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454509219801:android:07c6a0f95d3f5b547253c8",
+        "android_client_info": {
+          "package_name": "com.example.three_amigos_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB45vqMbyLsjMccOrUDAfp3Q2wqL9FzTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454509219801:android:6a53db89ca4549687253c8",
+        "android_client_info": {
+          "package_name": "com.example.three_amigos_inventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB45vqMbyLsjMccOrUDAfp3Q2wqL9FzTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
