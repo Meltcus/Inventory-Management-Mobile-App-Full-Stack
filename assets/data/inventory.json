@@ -1,0 +1,65 @@
+[
+    {
+      "name": "Tequila Silver",
+      "brand": "Jose Cuervo",
+      "quantity": 20,
+      "category": "Tequila",
+      "size": "750ml",
+      "type": "Alcohol",
+      "threshold": 5,
+      "lastUpdated": "2025-01-07T12:00:00Z",
+      "updatedBy": "admin_test",
+      "image": "tequila_silver.png"
+    },
+    {
+      "name": "Tequila Gold",
+      "brand": "Jose Cuervo",
+      "quantity": 15,
+      "category": "Tequila",
+      "size": "750ml",
+      "type": "Alcohol",
+      "threshold": 5,
+      "lastUpdated": "2025-01-07T12:00:00Z",
+      "updatedBy": "admin_test",
+      "image": "tequila_gold.png"
+    },
+    {
+      "name": "Tequila 1800 Silver",
+      "brand": "Tequila 1800",
+      "quantity": 8,
+      "category": "Tequila",
+      "size": "750ml",
+      "type": "Alcohol",
+      "threshold": 5,
+      "lastUpdated": "2025-01-07T12:00:00Z",
+      "updatedBy": "admin_test",
+      "image": "Tequila_1800_silver.png"
+
+    },
+    {
+      "name": "Tequila 1800 Reposado",
+      "brand": "Tequila 1800",
+      "quantity": 6,
+      "category": "Tequila",
+      "size": "750ml",
+      "type": "Alcohol",
+      "threshold": 5,
+      "lastUpdated": "2025-01-07T12:00:00Z",
+      "updatedBy": "admin_test",
+      "image": "Tequila_1800_reposado.png"
+    },
+    {
+      "name": "Hornitos Reposado",
+      "brand": "Hornitos",
+      "quantity": 3,
+      "category": "Tequila",
+      "size": "750ml",
+      "type": "Alcohol",
+      "threshold": 5,
+      "lastUpdated": "2025-01-07T12:00:00Z",
+      "updatedBy": "admin_test",
+      "image": "Hornitos_reposado.png"
+
+    }
+  ]
+  
